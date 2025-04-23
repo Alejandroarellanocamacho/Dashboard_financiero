@@ -13,8 +13,8 @@ Este dashboard fue desarrollado como parte de un curso de análisis de datos. Ut
 
 ## 📷 Capturas
 
-![Dashboard general](./Dash1.png)
-![Segmentación de datos](./dash2.png)
+![Dashboard general](./Dash1.PNG)
+![Segmentación de datos](./dash2.PNG)
 
 ## 📁 Archivos
 
